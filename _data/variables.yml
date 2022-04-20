@@ -4,8 +4,8 @@ default:
   lang: en
   paths:
     root: /
-    home: /
-    archive:  /archive.html
+    home: /blog
+    archive:  /blog/archive.html
     rss:  /feed.xml
   mathjax: false
   mathjax_autoNumber: false

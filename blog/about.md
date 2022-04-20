@@ -53,6 +53,21 @@ see more details on our dedicated [Website](https://solution-challenge-945f3.web
 
 <img class="image image--lg" src="/assets/img/foodo.png"/>
 
+<div class="item">
+  <div class="item__image">
+    <img class="image image--lg" src="/assets/img/foodo.png"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4>What is Foodo?</h4>
+    </div>
+    <div class="item__description">
+      <p>FooDo is an extended idea of food bank. While other people are donating money, we donate food. After people pay for the meals at the merchants, people who need the food can check whether there are paid meals nearby through FooDo.
+        see more details on our dedicated <a href="https://solution-challenge-945f3.web.app/">Website</a>.</p>
+    </div>
+  </div>
+</div>
+
 ## Skills
 
 - html5, CSS, JS

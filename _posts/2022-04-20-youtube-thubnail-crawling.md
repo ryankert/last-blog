@@ -1,7 +1,7 @@
 ---
-title: Youtube Thubnail Crawling
 layout: article
-tags: Crawling
+title: Document - Writing Posts
+mathjax: true
 ---
 
 

@@ -1,6 +1,7 @@
 
 ---
 title: Youtube Thubnail Crawling
+layout: article
 tags: Crawling
 ---
 

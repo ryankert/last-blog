@@ -70,6 +70,6 @@ I'm Ryan, and I'm a CS student at YZU university.
 
 ## Contact
 
-If encounter any problem, feel free to ask via issue at github or email me at [ryankert01@gmail.com](mailto:ryankert01@gmail.com).
+If encountered any problem, feel free to ask via issue at github or email me at [ryankert01@gmail.com](mailto:ryankert01@gmail.com).
 
 ---

@@ -25,7 +25,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /archive.html
+    url: /blog/archive.html
 
   - titles:
       # @start locale config
@@ -51,7 +51,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Hakkında
       # @end locale config
-    url: /about.html
+    url: /blog/about.html
   - title:      GitHub
     url:        https://github.com/ryankert01
     

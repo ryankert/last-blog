@@ -34,9 +34,7 @@ article_header:
   background_image:
     src: /assets/img/bg-1.jpg
 ---
-**Hi,**
-
-**Welcome to my Blog.**
+**Hi, Welcome to my Blog.**
 
 ## my Bio
 

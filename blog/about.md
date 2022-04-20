@@ -46,12 +46,6 @@ I'm Ryan, and I'm a CS student at YZU university.
 
 #### Team side-project: Foodo
 
-#### What is Foodo?
-FooDo is an extended idea of food bank. While other people are donating money, we donate food. After people pay for the meals at the merchants, people who need the food can check whether there are paid meals nearby through FooDo.
-see more details on our dedicated [Website](https://solution-challenge-945f3.web.app/).
-{:.info}
-
-<img class="image image--lg" src="/assets/img/foodo.png"/>
 
 <div class="item">
   <div class="item__image">

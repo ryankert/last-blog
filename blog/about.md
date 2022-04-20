@@ -34,5 +34,24 @@ article_header:
   background_image:
     src: /assets/img/bg-1.jpg
 ---
+Hi,
 
+Welcome to my Blog.
+
+## my Bio
+
+I'm Ryan, and I'm a CS student at YZU university.
+
+
+## Skills
+
+- html5, CSS, JS
+- c++, sqlite
+- Django, D3.js
+
+
+
+## Contact
+
+If encounter any problem, feel free to ask via issue at github or email me at [ryankert01@gmail.com](mailto:ryankert01@gmail.com).
 

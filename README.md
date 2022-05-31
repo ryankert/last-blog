@@ -1,6 +1,6 @@
 # Ryan's blog
 
-[](https://img.shields.io/github/languages/top/ryankert/ryankert.github.io)
+[]:(https://img.shields.io/github/languages/top/ryankert/ryankert.github.io)
 
 **website:**
 

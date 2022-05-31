@@ -1,7 +1,9 @@
 # Ryan's blog
 
 **website:**
+
 https://blog.ryankert.dev/
 
-**friend**
+**friend:**
+
 https://blogroll.ryankert.workers.dev/

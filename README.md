@@ -7,6 +7,6 @@
 
 https://blog.ryankert.dev/
 
-**friend:**
+**friends:**
 
 https://blogroll.ryankert.workers.dev/

@@ -40,6 +40,28 @@ The two comparators produce an output voltage dependent upon the voltage differe
 
 ## Online demo
 
-Live demo on [Tinkercad](https://www.tinkercad.com/things/dHCzB2ClsM3?sharecode=mzUA4KYrvbKhcI62gf9j8p93AeMJMEYHtntagq2Q9Q0)
+**Live demo on [Tinkercad](https://www.tinkercad.com/things/dHCzB2ClsM3?sharecode=mzUA4KYrvbKhcI62gf9j8p93AeMJMEYHtntagq2Q9Q0)**
 
 ![](https://i.imgur.com/I5e16mS.png)
+
+## An Interesting Fact
+
+:::success
+**Oscillioscope**
+The left one is between Capacitor and LED, and the right one represents LED ON or OFF.
+:::
+
+> it's triangle on the left while the right is squere.
+
+![](https://i.imgur.com/5PlM8Bm.png)
+
+### Why?
+
+> I believe why two wave is different is because the Capacitor store the energy, so it have some sort of buffer-ish influence.
+
+
+## Licence
+
+This project is my school Electrical Lab Final project.
+
+[WTFPL licence](https://choosealicense.com/licenses/wtfpl/)

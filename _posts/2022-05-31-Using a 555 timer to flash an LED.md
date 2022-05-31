@@ -36,3 +36,10 @@ The two comparators produce an output voltage dependent upon the voltage differe
 ## How?
 
 - Capacitor (c1): control how much time it delays
+
+
+## Online demo
+
+Live demo on [Tinkercad](https://www.tinkercad.com/things/dHCzB2ClsM3?sharecode=mzUA4KYrvbKhcI62gf9j8p93AeMJMEYHtntagq2Q9Q0)
+
+![](https://i.imgur.com/I5e16mS.png)

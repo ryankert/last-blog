@@ -1,7 +1,7 @@
 # Ryan's blog
 
 
-<img src="https://img.shields.io/opencollective/sponsors/shields" />
+<img src="https://img.shields.io/github/languages/top/ryankert/ryankert.github.io" />
 
 **website:**
 

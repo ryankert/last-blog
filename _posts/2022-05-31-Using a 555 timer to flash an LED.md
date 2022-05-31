@@ -46,10 +46,9 @@ The two comparators produce an output voltage dependent upon the voltage differe
 
 ## An Interesting Fact
 
-:::success
 **Oscillioscope**
 The left one is between Capacitor and LED, and the right one represents LED ON or OFF.
-:::
+{:.success}
 
 > it's triangle on the left while the right is squere.
 
@@ -57,8 +56,8 @@ The left one is between Capacitor and LED, and the right one represents LED ON o
 
 ### Why?
 
-> I believe why two wave is different is because the Capacitor store the energy, so it have some sort of buffer-ish influence.
-
+I believe why two wave is different is because the Capacitor store the energy, so it have some sort of buffer-ish influence.
+{:.info}
 
 ## Licence
 

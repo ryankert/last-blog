@@ -1,6 +1,6 @@
 ---
 layout: article
-title: youtube thubnail crawling
+title: Youtube Thubnail Crawling
 tags: Youtube
 key: 2022-04-20-youtube-thubnail-crawling
 ---

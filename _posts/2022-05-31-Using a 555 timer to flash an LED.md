@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Using a 555 timer to flash an LED
-tags: Electronic Circuit
+tags: Electronic_Circuit
 key: 2022-05-31-Using a 555 timer to flash an LED
 ---
 

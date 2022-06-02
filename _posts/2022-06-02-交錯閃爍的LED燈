@@ -1,0 +1,84 @@
+---
+layout: article
+title: 交錯閃爍的LED燈
+tags: Electronic_Circuit
+key: 2022-06-02-交錯閃爍的LED燈
+---
+
+## 題目說明(Subject explanation)
+
+> 請以自己的方式說明題目與電路。
+
+此題目利用NE555振盪器的特性配合上XOR GATE，並透過555 Timer來造成ON/OFF，造成LED交錯閃爍的效果。
+
+## 1. 動機(cause)
+
+> 請說明你為何會選擇製作此電路，動機為何?
+
+偶然在Tinkercad上見到555 Timer，便相當有興趣，於是搜尋有關教學，但是在教學裡的LED燈只有一個，我就想說為什麼不要有兩個呢? 於是我就想要再加一個LED燈。
+
+## 2. 使用元件及說明(Used IC explanation )
+
+> 請將電路中請用之元件做一簡單說明，例如說明IC內部的電路、接腳功能及真值表等等。
+
+1. NE555(555 Timer): 振盪器。
+2. Quad XOR gate: 進行 XOR 運算。
+3. 電阻: 保護LED, NE555, Quad XOR gate。
+4. 電容: 控制555 Timer之速度快慢(電容值愈高，頻率越低。)
+5. LED: 顯示其閃爍之能力。
+6. 電源供應器: 供應電源，可以指定電壓電流。
+
+## 3. 電路圖說明 (detailed circuit diagram)
+
+1. 請詳細的繪出電路圖，請勿只畫方塊圖。(電路圖部分使用手繪後掃描或電腦繪製皆可以)
+
+![](https://i.imgur.com/sVwqkiP.png)
+
+2. 請詳細說明每個部分的動作方式與作用。
+
+### NE555 (555 Timer)
+
+> 555 Timer 透過電容(C1)與電阻(R3)的配合產生頻率。
+> 電容、電阻愈高，頻率越低。
+
+```
+輸出(OUT) 到XOR gate
+bool NE555Out = OUT; // OUT port
+```
+
+![](https://i.imgur.com/3Wrr8Go.png)
+
+### Quad XOR gate
+
+> 透過XOR邏輯閘，控制兩個LED燈，使他們能一個亮起、一個轉暗。
+
+![](https://i.imgur.com/npoiHPr.png)
+
+```
+1A = NE555Out;
+1B = false;
+-> 1Y = NE555Out XOR 0;
+
+2A = NE555Out;
+2B = true;
+-> 2Y = NE555Out XOR 1;
+```
+
+## 4. 本學期修課心得
+
+> 請撰寫本學期上課與製作實驗等心得。
+
+我覺得這堂課對我來說是有趣的一堂課，因為可以把上課的東西和和這堂課相串連，算出電阻，再透過實作驗證，把課本上的知識透過實作真實的做出，讓我覺得課本上的知識不再是冰冷冷的姿勢，而是真正可以用在現實上的。也謝謝老師的認真教學在我們面對不會的問題的時候，都能很有耐心的解答，直到我們真的弄懂。
+
+## 線上DEMO
+
+![](https://i.imgur.com/KBwGuhY.png)
+
+View this project on [Tinkercad](https://www.tinkercad.com/things/dFlVqSQWeVn?sharecode=xLR6Py371WYBKtIyIY36tY0Az8VoOwagMXTQLgMcGRk).
+
+URL:
+https://www.tinkercad.com/things/dFlVqSQWeVn?sharecode=xLR6Py371WYBKtIyIY36tY0Az8VoOwagMXTQLgMcGRk
+
+## Credits:
+
+本 Project 基於 [Using a 555 timer to flash an LED](https://blog.ryankert.dev/2022/05/31/Using-a-555-timer-to-flash-an-LED.html)

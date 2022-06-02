@@ -59,8 +59,6 @@ The left one is between Capacitor and LED, and the right one represents LED ON o
 I believe why two wave is different is because the Capacitor store the energy, so it have some sort of buffer-ish influence.
 {:.info}
 
-## Licence
+## Credits
 
-This project is my school Electrical Lab Final project.
-
-[WTFPL licence](https://choosealicense.com/licenses/wtfpl/)
+This project is based on [this tutorial](https://www.instructables.com/Flashing-LED-using-555-Timer/).

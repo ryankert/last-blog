@@ -9,4 +9,4 @@ https://blog.ryankert.dev/
 
 **friends:**
 
-https://blogroll.ryankert.workers.dev/
+https://blogroll.ryankert.cc/
